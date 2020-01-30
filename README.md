@@ -5,4 +5,4 @@ A Deep CNN was implemented in python to properly count the number of fingers in 
 
 The training path for the most accurate model resulting from the above experiments was saved as finger_recognition.ckpt and used to build a detection application.
 
-Group Members: Farzad Shahabi, Sorena Javadi, Bhavin Sheth
+# Group Members: Farzad Shahabi, Sorena Javadi, Bhavin Sheth
